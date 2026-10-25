@@ -1,0 +1,13 @@
+{
+  "itemGroup.beyondtherealm": "Example Mod Tab",
+  "block.beyondtherealm.example_block": "Example Block",
+  "item.beyondtherealm.example_item": "Example Item",
+
+  "beyondtherealm.configuration.title": "Beyond the Realm Configs",
+  "beyondtherealm.configuration.section.beyondtherealm.common.toml": "Beyond the Realm Configs",
+  "beyondtherealm.configuration.section.beyondtherealm.common.toml.title": "Beyond the Realm Configs",
+  "beyondtherealm.configuration.items": "Item List",
+  "beyondtherealm.configuration.logDirtBlock": "Log Dirt Block",
+  "beyondtherealm.configuration.magicNumberIntroduction": "Magic Number Text",
+  "beyondtherealm.configuration.magicNumber": "Magic Number"
+}
